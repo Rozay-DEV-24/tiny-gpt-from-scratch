@@ -21,7 +21,7 @@ This repo/notebook is a **hands-on walk-through of GPT-style transformer archite
 
 ## 🗂️ Project Structure
 ```
-GPT Architecture.ipynb     # Main, fully annotated notebook
+Code_File.ipynb     # Main, fully annotated notebook
 README.md                  # This file
 ```
 Optional folders you can add:
